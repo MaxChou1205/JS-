@@ -3,4 +3,4 @@
 3. DOM偵聽函式 -> 該DOM
 4. 建構函式 -> 建構出來的實例
 
-<img src="rules.png">
+<img src="rules.PNG">
